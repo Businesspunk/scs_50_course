@@ -1,0 +1,17 @@
+concept_physical_excercise_for_the_shoulders
+ 
+<-sc_node_not_relation;
+
+=> nrel_main_idtf:
+          [physical exercise for the shoulders]
+          (*<-lang_en;;*);
+          [физические нагрузки для плеч]
+          (*<-lang_ru;;*);
+
+=> nrel_inclusion: lifting_dumbbells_in_front_of_you;
+=> nrel_inclusion: upside_down_push_ups_against_a_wall;
+=> nrel_inclusion: bench_press_arnold;
+=> nrel_inclusion: sitting_dumbbell_bench_press;
+=> nrel_inclusion: freestyle_swimming;
+=> nrel_inclusion: chin_rod;
+=> nrel_inclusion: horizontal_abduction_of_arms_in_a_crossover;;

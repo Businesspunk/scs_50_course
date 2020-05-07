@@ -1,0 +1,32 @@
+bench
+<-sc_node_not_relation;
+=> nrel_main_idtf:
+          [bench]
+          (*<-lang_en;;*);
+          [скамья]
+          (*<-lang_ru;;*);;
+
+damn_bar
+<-sc_node_not_relation;
+=> nrel_main_idtf:
+          [damn bar]
+          (*<-lang_en;;*);
+          [блин от штанги]
+          (*<-lang_ru;;*);;
+
+machine_smitt
+<-sc_node_not_relation;
+=> nrel_main_idtf:
+          [smit's machine]
+          (*<-lang_en;;*);
+          [машина Смита]
+          (*<-lang_ru;;*);;
+
+cable_simulators
+<-sc_node_not_relation;
+=> nrel_main_idtf:
+          [cable simulators]
+          (*<-lang_en;;*);
+          [тросовые тренажеры]
+          (*<-lang_ru;;*);;
+
