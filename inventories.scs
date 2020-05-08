@@ -30,3 +30,11 @@ cable_simulators
           [тросовые тренажеры]
           (*<-lang_ru;;*);;
 
+trx_petle
+<-sc_node_not_relation;
+=> nrel_main_idtf:
+          [trx petlex]
+          (*<-lang_en;;*);
+          [TRX петли]
+          (*<-lang_ru;;*);;
+

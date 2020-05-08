@@ -22,6 +22,14 @@ pectoral_muscles
           [грудь]
           (*<-lang_ru;;*);;
 
+press_muscles
+<-sc_node_not_relation;
+=> nrel_main_idtf:
+          [press muscles]
+          (*<-lang_en;;*);
+          [пресс]
+          (*<-lang_ru;;*);;
+
 shoulders
 <-sc_node_not_relation;
 => nrel_main_idtf:
