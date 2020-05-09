@@ -1,0 +1,12 @@
+concept_physical_excercise_for_the_chest
+ 
+<-sc_node_not_relation;
+
+=> nrel_main_idtf:
+          [physical exercise for the chest]
+          (*<-lang_en;;*);
+          [физические нагрузки для груди]
+          (*<-lang_ru;;*);
+
+=> nrel_inclusion: bending_the_elbow_joints_with_dumbbells_on_an_inclined_bench;
+=> nrel_inclusion: bending_arms_with_dumbbells_while_standing;;

@@ -67,5 +67,7 @@ concept_physical_excercise_in_gym <- rrel_key_sc_element:...
 concept_physical_excercise_in_gym=>nrel_inclusion: concept_physical_exercise_for_the_neck;;
 concept_physical_excercise_in_gym=>nrel_inclusion: concept_physical_excercise_for_the_trapeze;;
 concept_physical_excercise_in_gym=>nrel_inclusion: concept_physical_excercise_for_the_shoulders;;
+concept_physical_excercise_in_gym=>nrel_inclusion: concept_physical_excercise_for_the_biceps;;
+concept_physical_excercise_in_gym=>nrel_inclusion: concept_physical_excercise_for_the_chest;;
 
 

@@ -38,6 +38,14 @@ shoulders
           [плечи]
           (*<-lang_ru;;*);;
 
+forearm
+<-sc_node_not_relation;
+=> nrel_main_idtf:
+          [forearm]
+          (*<-lang_en;;*);
+          [предплечья]
+          (*<-lang_ru;;*);;
+
 latissimus_dorsi
 <-sc_node_not_relation;
 => nrel_main_idtf:
@@ -46,12 +54,27 @@ latissimus_dorsi
           [широчайшие мышцы спины]
           (*<-lang_ru;;*);;
 
+middle_back
+<-sc_node_not_relation;
+=> nrel_main_idtf:
+          [middle back]
+          (*<-lang_en;;*);
+          [средняя часть спины]
+          (*<-lang_ru;;*);;
+
 triceps
 <-sc_node_not_relation;
 => nrel_main_idtf:
           [triceps]
           (*<-lang_en;;*);
           [трицепс]
+          (*<-lang_ru;;*);;
+biceps
+<-sc_node_not_relation;
+=> nrel_main_idtf:
+          [biceps]
+          (*<-lang_en;;*);
+          [бицепс]
           (*<-lang_ru;;*);;
 
 quadriceps
