@@ -6,4 +6,8 @@ concept_physical_excercise_for_the_press
           [physical exercise for the press muscles]
           (*<-lang_en;;*);
           [физические нагрузки для пресса]
-          (*<-lang_ru;;*);;
+          (*<-lang_ru;;*);
+
+=> nrel_inclusion: oblique_twisting_on_the_floor;
+=> nrel_inclusion: hanging_legs;
+=> nrel_inclusion: twisting_on_an_inclined_bench;;
