@@ -69,5 +69,7 @@ concept_physical_excercise_in_gym=>nrel_inclusion: concept_physical_excercise_fo
 concept_physical_excercise_in_gym=>nrel_inclusion: concept_physical_excercise_for_the_shoulders;;
 concept_physical_excercise_in_gym=>nrel_inclusion: concept_physical_excercise_for_the_biceps;;
 concept_physical_excercise_in_gym=>nrel_inclusion: concept_physical_excercise_for_the_chest;;
+concept_physical_excercise_in_gym=>nrel_inclusion: concept_physical_excercise_for_the_forearm;;
+concept_physical_excercise_in_gym=>nrel_inclusion: concept_physical_excercise_for_the_press;;
 
 

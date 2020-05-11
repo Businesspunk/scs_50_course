@@ -1,0 +1,9 @@
+concept_physical_excercise_for_the_press
+ 
+<-sc_node_not_relation;
+
+=> nrel_main_idtf:
+          [physical exercise for the press muscles]
+          (*<-lang_en;;*);
+          [физические нагрузки для пресса]
+          (*<-lang_ru;;*);;

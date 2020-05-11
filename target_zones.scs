@@ -62,6 +62,14 @@ middle_back
           [средняя часть спины]
           (*<-lang_ru;;*);;
 
+lower_back
+<-sc_node_not_relation;
+=> nrel_main_idtf:
+          [lower back]
+          (*<-lang_en;;*);
+          [нижняя часть спины]
+          (*<-lang_ru;;*);;
+
 triceps
 <-sc_node_not_relation;
 => nrel_main_idtf:
