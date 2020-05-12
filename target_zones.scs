@@ -43,7 +43,7 @@ forearm
 => nrel_main_idtf:
           [forearm]
           (*<-lang_en;;*);
-          [предплечья]
+          [предплечье]
           (*<-lang_ru;;*);;
 
 latissimus_dorsi

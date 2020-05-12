@@ -12,7 +12,7 @@ mixing_hands_in_the_simulator_butterfly
 	...
 	(*
 		<- explanation;;
-        => nrel_main_idtf: [Утв.(сведение рук в тренажере) ]  (* <- lang_ru;; *);;
+        => nrel_main_idtf: [Опр.(сведение рук в тренажере) ]  (* <- lang_ru;; *);;
 		<= nrel_sc_text_translation:
 		...
 		(*

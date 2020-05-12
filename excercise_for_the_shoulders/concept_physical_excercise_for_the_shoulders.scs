@@ -5,7 +5,7 @@ concept_physical_excercise_for_the_shoulders
 => nrel_main_idtf:
           [physical exercise for the shoulders]
           (*<-lang_en;;*);
-          [физические нагрузки для плеч]
+          [физические упражнения для плеч]
           (*<-lang_ru;;*);
 
 => nrel_inclusion: lifting_dumbbells_in_front_of_you;

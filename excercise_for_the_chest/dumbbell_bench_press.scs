@@ -12,7 +12,7 @@ dumbbell_bench_press
 	...
 	(*
 		<- explanation;;
-        => nrel_main_idtf: [Утв.(жим гантелей лежа) ]  (* <- lang_ru;; *);;
+        => nrel_main_idtf: [Опр.(жим гантелей лежа) ]  (* <- lang_ru;; *);;
 		<= nrel_sc_text_translation:
 		...
 		(*

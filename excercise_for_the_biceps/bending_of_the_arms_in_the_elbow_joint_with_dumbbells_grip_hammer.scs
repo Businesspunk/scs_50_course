@@ -12,7 +12,7 @@ bending_of_the_arms_in_the_elbow_joint_with_dumbbells_grip_hammer
 	...
 	(*
 		<- explanation;;
-        => nrel_main_idtf: [Утв.(сгибание рук в локтевом суставе с гантелями хватом “молот”) ]  (* <- lang_ru;; *);;
+        => nrel_main_idtf: [Опр.(сгибание рук в локтевом суставе с гантелями хватом “молот”) ]  (* <- lang_ru;; *);;
 		<= nrel_sc_text_translation:
 		...
 		(*

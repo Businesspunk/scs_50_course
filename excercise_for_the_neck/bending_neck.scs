@@ -12,7 +12,7 @@ bending_neck
 	...
 	(*
 		<- explanation;;
-        => nrel_main_idtf: [Утв.(Сгибание шеи лёжа на скамье)]  (* <- lang_ru;; *);;
+        => nrel_main_idtf: [Опр.(сгибание шеи лёжа на скамье)]  (* <- lang_ru;; *);;
 		<= nrel_sc_text_translation:
 		...
 		(*

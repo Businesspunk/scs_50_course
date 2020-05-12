@@ -12,7 +12,7 @@ crossover_hands
 	...
 	(*
 		<- explanation;;
-        => nrel_main_idtf: [Утв.(сведение рук в кроссовере) ]  (* <- lang_ru;; *);;
+        => nrel_main_idtf: [Опр.(сведение рук в кроссовере) ]  (* <- lang_ru;; *);;
 		<= nrel_sc_text_translation:
 		...
 		(*

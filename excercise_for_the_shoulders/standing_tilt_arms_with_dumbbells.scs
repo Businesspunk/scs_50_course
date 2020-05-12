@@ -12,7 +12,7 @@ standing_tilt_arms_with_dumbbells
 	...
 	(*
 		<- explanation;;
-        => nrel_main_idtf: [Утв.(разведение рук с гантелями в наклоне стоя) ]  (* <- lang_ru;; *);;
+        => nrel_main_idtf: [Опр.(разведение рук с гантелями в наклоне стоя) ]  (* <- lang_ru;; *);;
 		<= nrel_sc_text_translation:
 		...
 		(*

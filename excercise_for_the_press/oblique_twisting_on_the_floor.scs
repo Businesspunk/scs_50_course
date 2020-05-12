@@ -12,7 +12,7 @@ oblique_twisting_on_the_floor
 	...
 	(*
 		<- explanation;;
-        => nrel_main_idtf: [Утв.(косые скручивания на полу) ]  (* <- lang_ru;; *);;
+        => nrel_main_idtf: [Опр.(косые скручивания на полу) ]  (* <- lang_ru;; *);;
 		<= nrel_sc_text_translation:
 		...
 		(*

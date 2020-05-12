@@ -5,7 +5,7 @@ concept_physical_excercise_for_the_biceps
 => nrel_main_idtf:
           [physical exercise for the biceps]
           (*<-lang_en;;*);
-          [физические нагрузки для бицепса]
+          [физические упражнения для бицепса]
           (*<-lang_ru;;*);
 
 => nrel_inclusion: bending_arms_with_loops;

@@ -12,7 +12,7 @@ bending_the_arms_on_the_lower_block_in_the_crossover
 	...
 	(*
 		<- explanation;;
-        => nrel_main_idtf: [Утв.(сгибание рук на нижнем блоке в кроссовере) ]  (* <- lang_ru;; *);;
+        => nrel_main_idtf: [Опр.(сгибание рук на нижнем блоке в кроссовере) ]  (* <- lang_ru;; *);;
 		<= nrel_sc_text_translation:
 		...
 		(*

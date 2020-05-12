@@ -5,7 +5,7 @@ concept_physical_excercise_for_the_chest
 => nrel_main_idtf:
           [physical exercise for the chest]
           (*<-lang_en;;*);
-          [физические нагрузки для груди]
+          [физические упражнения для груди]
           (*<-lang_ru;;*);
 
 => nrel_inclusion: bench_press_lying_on_an_inclined_bench;

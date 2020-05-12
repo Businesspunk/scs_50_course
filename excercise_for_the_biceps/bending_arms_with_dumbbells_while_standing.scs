@@ -12,7 +12,7 @@ bending_arms_with_dumbbells_while_standing
 	...
 	(*
 		<- explanation;;
-        => nrel_main_idtf: [Утв.(сгибание рук с гантелями стоя) ]  (* <- lang_ru;; *);;
+        => nrel_main_idtf: [Опр.(сгибание рук с гантелями стоя) ]  (* <- lang_ru;; *);;
 		<= nrel_sc_text_translation:
 		...
 		(*
